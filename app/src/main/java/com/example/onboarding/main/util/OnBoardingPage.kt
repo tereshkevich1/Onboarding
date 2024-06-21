@@ -1,4 +1,4 @@
-package com.example.onboarding.main
+package com.example.onboarding.main.util
 
 import androidx.annotation.ColorRes
 import androidx.annotation.DrawableRes
@@ -44,7 +44,8 @@ sealed class OnBoardingPage(
     data object OnBoarding4 : OnBoardingPage(
         title = R.string.title_onboarding_4,
         text = R.string.text_onboarding_4,
-        image = R.drawable.img_car4,
+        image = R.drawable.img_car4
+        ,
         backgroundColor = R.color.onboarding_4_background_color,
         imageAlignment = Alignment.Start
     )

@@ -8,4 +8,6 @@
     <string name="text_onboarding_3">We will pay for you, all expenses related to the car</string>
     <string name="title_onboarding_4">29 car models: from Skoda Octavia to Porsche 911</string>
     <string name="text_onboarding_4">Choose between regular car models or exclusive ones</string>
+    <string name="finish_screen_message">You are a clever person!</string>
+    <string name="skip">Skip</string>
 </resources>

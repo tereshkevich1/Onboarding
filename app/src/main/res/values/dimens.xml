@@ -4,4 +4,5 @@
     <dimen name="onboarding_message_column_bottom_padding">38dp</dimen>
     <dimen name="onboarding_message_column_horizontal_padding">24dp</dimen>
     <dimen name="text_padding">12dp</dimen>
+    <dimen name="finish_screen_message_padding">44dp</dimen>
 </resources>
